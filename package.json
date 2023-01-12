@@ -35,7 +35,7 @@
   },
   "peerDependencies": {
     "expo": ">= 33.0.x < 60.0.x",
-    "expo-constants": ">= 5.0.0 < 14.x",
+    "expo-constants": ">= 5.0.0 < 20.0.0",
     "expo-file-system": ">= 5.0.0 < 15.x",
     "react": "*",
     "react-native": "*",
